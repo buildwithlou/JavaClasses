@@ -52,12 +52,12 @@ public class ElectionStatistics {
 		
 												
 		//----------------------Output: Display the result------------------------------------
-		 System.out.println("The name for the Political Parties are: " + politicalParty1 + " , " + politicalParty2 + " & " + politicalParty3 );
-		 System.out.println("\n-----------------------Vote Statistics----------------------");
-		 System.out.println("\nThe number of the total votes: " + totalNumberOfVotes);
-		 System.out.println("\nThe percentage for the First Political Party " + politicalParty1 + " is: " + percentPP1 + "%");
-		 System.out.println("The percentage for the Second Political Party " + politicalParty2 + " is: " + percentPP2 + "%");
-		 System.out.println("The percentage for the Third Political Party " + politicalParty3 + " is: " + percentPP3 + "%");
+		System.out.println("The name for the Political Parties are: " + politicalParty1 + " , " + politicalParty2 + " & " + politicalParty3 );
+		System.out.println("\n-----------------------Vote Statistics----------------------");
+		System.out.println("\nThe number of the total votes: " + totalNumberOfVotes);
+		System.out.println("\nThe percentage for the First Political Party " + politicalParty1 + " is: " + percentPP1 + "%");
+		System.out.println("The percentage for the Second Political Party " + politicalParty2 + " is: " + percentPP2 + "%");
+		System.out.println("The percentage for the Third Political Party " + politicalParty3 + " is: " + percentPP3 + "%");
 	}
 
 }
