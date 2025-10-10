@@ -21,7 +21,7 @@ public class StudentWeightedGPASimulator {
 		
 		//---------------------------Input: Get the grades from user-----------------------------------;
 		Scanner input = new Scanner(System.in);			//Scanner object for reading user input
-
+		
 		//---------------Loop: how many times the user wants to put their grades-----------------------
 		do {
 			
@@ -100,8 +100,7 @@ public class StudentWeightedGPASimulator {
 			userAnswer = input.next().toLowerCase().charAt(0);
 		}while(userAnswer == 'y');
 		
-			//-----------------------------Finishing: Close scanner--------------------------------------
-		input.close();
+		
 	}
 
 }
