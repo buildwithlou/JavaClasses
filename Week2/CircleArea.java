@@ -21,8 +21,7 @@ public class CircleArea {
 		//------------------Input: Get the radius from user-----------------------------------
 		Scanner input = new Scanner(System.in);  //Scanner object for reading user input 
 		System.out.print("Enter radius: ");
-		radius = input.nextDouble();			 //Read radius as double value 
-		                                                                       
+		radius = input.nextDouble();			 //Read radius as double value                                                            
 		//-------------------Processing: Calculate the area-----------------------------------
 		area = PI * radius * radius;			 //Formula to calculate the circle area
 												

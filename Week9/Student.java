@@ -9,7 +9,7 @@
  * Created by Lourdes Pampa.
  * Date: 10/24/2025
  */
-package cwChapter10;
+package Week9;
 
 public class Student {
 	//Attributes 

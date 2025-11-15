@@ -9,7 +9,7 @@
  * Created by Lourdes Pampa.
  * Date: 9/19/2025
  */
-package cwChapter5;
+package Week5;
 import java.util.Scanner;
 public class StudentWeightedGPASimulator {
 	public static void main(String[] args) {
