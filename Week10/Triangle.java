@@ -9,7 +9,7 @@
  * Created by Lourdes Pampa.
  * Date: 10/31/2025
  * */
-package cwChapter11;
+package Week10;
 
 public class Triangle extends Shape {
 	
